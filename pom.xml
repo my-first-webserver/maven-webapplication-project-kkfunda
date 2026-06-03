@@ -5,7 +5,7 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.0-Snapshop</version>
+	<version>1.0.1-Snapshop</version>
 	
 	<name>maven-web-application</name>
 
